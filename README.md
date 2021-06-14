@@ -1,6 +1,6 @@
 # _Calculator_
 
-#### _Vestibulum neque urna, convallis quis porta convallis, molestie in leo._
+#### _Simple calculator program._
 
 #### By _**Carlos Urquiza**_
 
@@ -15,7 +15,7 @@
 
 ## Description
 
-_Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar, dui sed sollicitudin iaculis, orci tortor vehicula diam, non consequat risus magna et dui. Praesent turpis nisl, congue sed rutrum sit amet, elementum vitae justo. Integer non libero ligula. Fusce egestas pharetra bibendum._
+_Allows user to insert two numbers into the form fields, submit the form to see the answer displayed on screen._
 
 ## Setup/Installation Requirements
 
