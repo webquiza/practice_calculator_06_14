@@ -27,7 +27,7 @@ _Allows user to insert two numbers into the form fields, submit the form to see 
 * _Type `git clone` and paste the URL you copied._
 * _Press Enter._
 * _Navigate to the project folder on your computer and open the `index.html` file to view the webpage._
-* _Alternatively, you can view the live webpage via this [GitHub Page]()._
+* _Alternatively, you can view the live webpage via this [GitHub Page](https://webquiza.github.io/practice_calculator_06_14/)._
 
 ## Known Bugs
 
