@@ -13,36 +13,44 @@
     <h1>Calculator</h1>
     <img src="img/calculator.jpg" alt="Image of calculator">
 
-    <form id="add">
+    <form id="calculator">
       <div class="form-group">
-        <label for="add1">1st number:</label>
-        <input id="add1" class="form-control" type="text">
+        <label for="input1">1st number:</label>
+        <input id="input1" class="form-control" type="text">
       </div>
       <div class="form-group">
-        <label for="add2">2nd number:</label>
-        <input id="add2" class="form-control" type="text">
+        <label for="input2">2nd number:</label>
+        <input id="input2" class="form-control" type="text">
       </div>
-      <button type="submit" class="btn btn-secondary">Add!</button>
+      <div class="radio">
+        <label>
+          <input type="radio" name="operator" value="add" checked>
+          add
+        </label>
+      </div>
+      <div class="radio">
+        <label>
+          <input type="radio" name="operator" value="subtract">
+          subtract
+        </label>
+      </div>
+      <div class="radio">
+        <label>
+          <input type="radio" name="operator" value="multiply">
+          multiply
+        </label>
+      </div>        
+      <div class="radio">
+        <label>
+          <input type="radio" name="operator" value="divide">
+          divide
+        </label>
+      </div>        
+      <button type="submit" class="btn">Go!</button>
     </form>
-    <div id="output1">
+    <div id="output">
 
     </div>
-
-    <form id="subtract">
-      <div class="form-group">
-        <label for="sub1">1st number:</label>
-        <input id="sub1" class="form-control" type="text">
-      </div>
-      <div class="form-group">
-        <label for="sub2">2nd number:</label>
-        <input id="sub2" class="form-control" type="text">
-      </div>
-      <button type="submit" class="btn btn-secondary">Subtract!</button>
-    </form>
-    <div id="output2">
-
-    </div>
-
   </div>
 </body>
 </html>
